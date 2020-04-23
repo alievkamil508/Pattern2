@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Strategy\Strategy\bin\Debug\Strategy.exe.config
+C:\Users\user\Documents\c# test\Strategy\Strategy\bin\Debug\Strategy.exe
+C:\Users\user\Documents\c# test\Strategy\Strategy\bin\Debug\Strategy.pdb
+C:\Users\user\Documents\c# test\Strategy\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Strategy\Strategy\obj\Debug\Strategy.exe
+C:\Users\user\Documents\c# test\Strategy\Strategy\obj\Debug\Strategy.pdb

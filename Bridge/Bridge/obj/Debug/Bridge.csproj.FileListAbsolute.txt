@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Bridge\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\user\Documents\c# test\Bridge\Bridge\bin\Debug\Bridge.exe
+C:\Users\user\Documents\c# test\Bridge\Bridge\bin\Debug\Bridge.pdb
+C:\Users\user\Documents\c# test\Bridge\Bridge\obj\Debug\Bridge.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Bridge\Bridge\obj\Debug\Bridge.exe
+C:\Users\user\Documents\c# test\Bridge\Bridge\obj\Debug\Bridge.pdb

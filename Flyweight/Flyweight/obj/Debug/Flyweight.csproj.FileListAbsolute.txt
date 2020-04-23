@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\bin\Debug\Flyweight.exe
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\bin\Debug\Flyweight.pdb
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\obj\Debug\Flyweight.exe
+C:\Users\user\Documents\c# test\Flyweight\Flyweight\obj\Debug\Flyweight.pdb
