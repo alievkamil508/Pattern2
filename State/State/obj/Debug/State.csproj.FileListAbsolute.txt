@@ -1,0 +1,6 @@
+C:\Users\user\Documents\c# test\State\State\bin\Debug\State.exe.config
+C:\Users\user\Documents\c# test\State\State\bin\Debug\State.exe
+C:\Users\user\Documents\c# test\State\State\bin\Debug\State.pdb
+C:\Users\user\Documents\c# test\State\State\obj\Debug\State.csprojAssemblyReference.cache
+C:\Users\user\Documents\c# test\State\State\obj\Debug\State.exe
+C:\Users\user\Documents\c# test\State\State\obj\Debug\State.pdb
